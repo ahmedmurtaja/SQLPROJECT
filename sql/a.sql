@@ -1,0 +1,1 @@
+UPDATE students SET FirstName= 'MO' ,LastName= 'Shawwa' ,sex= 'male' ,address= 'gaza' WHERE sid=36;
